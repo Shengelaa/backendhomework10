@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "secret": "random123",
+    "product": "apple",
+    "createdAt": "2025-05-16T12:15:29.728Z"
+  },
+  {
+    "id": 2,
+    "secret": "random123",
+    "product": "msxali",
+    "createdAt": "2025-05-16T12:19:53.153Z"
+  },
+  {
+    "id": 3,
+    "secret": "random123",
+    "product": "gela",
+    "createdAt": "2025-05-16T12:19:57.432Z"
+  },
+  {
+    "id": 4,
+    "secret": "NewSecret",
+    "createdAt": "2025-05-16T12:20:01.319Z",
+    "updatedAt": "2025-05-16T12:31:06.589Z",
+    "product": "finished"
+  }
+]

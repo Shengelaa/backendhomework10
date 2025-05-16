@@ -1,0 +1,24 @@
+{
+  "name": "backend-homework10",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shengelaa/backendhomework10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shengelaa/backendhomework10/issues"
+  },
+  "homepage": "https://github.com/Shengelaa/backendhomework10#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
